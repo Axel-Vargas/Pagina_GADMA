@@ -24,8 +24,9 @@ Este repositorio contiene el prototipo de la página oficial del GADMA desarroll
 ## Cómo Utilizar
 
 1. Clona este repositorio:
-   git clone https://github.com/tu-usuario/gadma-prototipo.git
-2. Abre el archivo `index.html` en tu navegador favorito.
+   ´´´bash
+   git clone https://github.com/Axel-Vargas/Pagina_GADMA.git
+3. Abre el archivo `index.html` en tu navegador favorito.
 
 ## Licencia
 
